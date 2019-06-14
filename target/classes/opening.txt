@@ -1,0 +1,21 @@
+
+   _____ _                 _        _____  _____   _____ 
+  / ____(_)               | |      |  __ \|  __ \ / ____|
+ | (___  _ _ __ ___  _ __ | | ___  | |__) | |__) | |  __ 
+  \___ \| | '_ ` _ \| '_ \| |/ _ \ |  _  /|  ___/| | |_ |
+  ____) | | | | | | | |_) | |  __/ | | \ \| |    | |__| |
+ |_____/|_|_| |_| |_| .__/|_|\___| |_|  \_\_|     \_____|
+                    | |                                  
+                    |_|                                  
+
+---------------    A command line RPG    ----------------
+
+	Welcome to Simple RPG!
+Your ultimate goal is to finish the quest given to you.	
+When you start new game, you choose your theme and create your character.
+You will encounter many enemies along the way trying to stop you achieving your goal.
+You will gain experience points fighting them, the difficult the encounter 
+the more experience points will be taken.
+Enemies will be shown according to their unique symbols.
+
+One more thing before you begin brave adventurer... Good luck and Enjoy!
